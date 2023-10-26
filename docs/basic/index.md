@@ -41,10 +41,17 @@ sidebar_position: 1
 
 1. 实验一：从零开始实现深度神经网络
 2. 实验二：Pytorch 入门教程
-3. 实验三：GAN生成动画任务图片
+3. 实验三：GAN生成动画人物图片
 4. 实验四：Transformer实现中英文翻译
 5. 实验五：RNN实现一个音乐自动生成应用
 
+:::tip 关于$\LaTeX$
+
+$\LaTeX$ 已于信息与计算机科学专业大二下的数值计算实践课程中教授，如果大家忘了可以去[LaTeX教程](https://suepaper.github.io/math201/docs/latex/)学习。如果本地 $\LaTeX$ 环境已没有，可以使用在线版本的[Overleaf](https://cn.overleaf.com/)作为$\LaTeX$ 开发环境，只需上传课程实验报告模板就可以使用。
+
+*数学系的学生不会 $\LaTeX$ 应该感到羞耻。*
+
+:::
 
 ### 实验报告
 
